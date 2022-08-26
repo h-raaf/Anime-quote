@@ -2,21 +2,31 @@
   "GuideData": {
     "AdsController": 
       {
-        "NetworkAds": "max",
-
-		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+	      
+        "BannerAd": "max",
+	"InterstitialAd": "max",
+        "NativeAd": "max",
+		
+	"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 		
 		"MaxBanner": "d689756eacea24f0",
 		"MaxInter":  "1e2417b13303293f",
 		"MaxNative": "6678f17585b32c5f",
+		
+		"ironsource_appKey": "1011dee21",
+		
+		"unity_game_id": "3883855",
+		"unity_test": true,
+		"unity_banner": "banner",
+		"unity_interstitial": "video",
 
         "ImageBanner": false,
         "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
         "ImageBannerURL" : "https://www.google.com"
 		
-},
+      },
 
        "items": [
 	   {
