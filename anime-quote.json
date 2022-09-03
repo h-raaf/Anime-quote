@@ -6,9 +6,9 @@
 		"InterstitialAd": "admob",
         "NativeAd": "admob",
 		
-		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+		"BannerAdmob": "ca-app-pub-3516129193884802/2747043414",
+        "InterstitialAdmob": "ca-app-pub-3516129193884802/7422986729",
+        "NativeAdmob": "ca-app-pub-3516129193884802/2675687385",
 	      
 		"maxBanner": "4c317bf94f7fbfeb",
 		"maxInterstitial": "52680b4d6845e00b",
