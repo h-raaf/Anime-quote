@@ -1,31 +1,56 @@
-{
-  "GuideData": {
-    "AdsController": 
-      {
-        "BannerAd": "max",
-		"InterstitialAd": "max",
-        "NativeAd": "max",
+ {
+	"GuideData": {
+		"AdsController": {
 		
-		"BannerAdmob": "ca-app-pub-3516129193884802/2747043414",
-        "InterstitialAdmob": "ca-app-pub-3516129193884802/7422986729",
-        "NativeAdmob": "ca-app-pub-3516129193884802/2675687385",
-	      
-		"maxBanner": "41aa8b4c0d78e7af",
-		"maxInterstitial": "a71e16994208108b",
-		"maxNative": "a31b71b4fd89d069",
-		
-		"ironsource_appKey": "1011dee21",
-		
-		"unity_game_id": "3883855",
-		"unity_test": true,
-		"unity_banner": "banner",
-		"unity_interstitial": "video",
+			"BannerAd": "",
+			"InterstitialAd": "admob",
+			"NativeAd": "",
+			
+			"AdsCounter": "2",
 
-        "ImageBanner": false,
-        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
-        "ImageBannerURL" : "https://www.google.com"
+			"MyPromo": "no",
+			"Gift": "no",
+
+			"BannerAdsAc1": "admob",
+			"BannerAdsAc2": "facebook",
+			"BannerAdsAc3": "max",
+
+			"InterAdsAc1": "facebook",
+			"InterAdsAc2": "admob",
+			"InterAdsAc3": "facebook",
+
+			"NativeAdsAc1": "max",
+			"NativeAdsAc2": "admob",
+			"NativeAdsAc3": "facebook",
+			"NativeAdsAc4": "max",
+			"NativeAdsAc5": "facebook",
+
+	"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+	"OpenAdmob": "ca-app-pub-3940256099942544/3419835294",
+	      
+        "FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
+        "FanInter":  "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
+        "FanNative": "IMG_16_9_APP_INSTALL#825738315329934_825743048662794",
+	"NativeFacebookSingle": "IMG_16_9_APP_INSTALL#825738315329934_826124475291318",
 		
-      },
+		"MaxBanner" : "YOUR_AD_UNIT_ID",
+		"MaxInter" : "YOUR_AD_UNIT_ID",
+		"MaxNative" : "YOUR_AD_UNIT_ID",
+
+
+			"ironsource_appKey": "1011dee21",
+
+			"unity_game_id": "3883855",
+			"unity_test": true,
+			"unity_banner": "banner",
+			"unity_interstitial": "video",
+
+			"Cpa": false,
+			"ImageUrl": "https://i.postimg.cc/Bbx6m3xC/img.jpg",
+			"LinkCpa": "https://freefire-ffdiamonds.netlify.app/"
+		},
 
     "items": [
     
